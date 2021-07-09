@@ -1,7 +1,3 @@
-👋 Hi, I’m Chris and I'm a dataholic..?
-
-I do data stuff for GaiaLens 
-
 ( •_•)>⌐■-■
 
 (⌐■_■)
